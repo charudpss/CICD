@@ -1,0 +1,6 @@
+Eks-terraform/.terraform.lock.hcl
+Eks-terraform/.terraform.lock.hcl_bkp
+Eks-terraform/.terraform/*
+Eks-terraform/.terraform_bkp/*
+modules/key/*
+.DS_Store/*
